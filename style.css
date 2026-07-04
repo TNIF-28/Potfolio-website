@@ -1,0 +1,13 @@
+#chatbox{
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+#messageInput {
+    width: 80%;
+    margin-right: 10px;
+}
+#send {
+    width: 15%;
+}
